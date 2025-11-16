@@ -692,9 +692,7 @@ Community:
 
 ## 📬 Contact
 
-- Maintainer: Ritik Prajapat
-- Email: prajapatritik73@gmail.com
-- GitHub: [@toxicdevil0](https://github.com/toxicdevil0)
-- Website: https://timeoutapp.com
+- Maintainer: Gazal Pancholi
+- Email: gazalpancholi2005@gmail.com
 
 Built with focus, designed for productivity, powered by community.
