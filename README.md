@@ -2,9 +2,6 @@
 
 A comprehensive productivity platform for students and educators with focus tracking, real-time collaboration, and behavioral analytics.
 
-Status: ✅ Ready
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-2.0.0-blue)
 ![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.6.2-3178C6?logo=typescript)
@@ -32,11 +29,10 @@ Key differentiators:
 - Node.js 18+
 - npm 9+ (or yarn/pnpm)
 - Git
-- Optional (for full setup): Firebase CLI (`npm i -g firebase-tools`)
 
 ## 🎯 Features
 
-### ✅ Working (Out-of-the-box)
+### ✅ MVP
 - Focus Timer (Pomodoro, Deep Work, Breaks) with local persistence
 - Beautiful, responsive UI (green theme, glassmorphism)
 - Demo Mode: runs immediately without external setup
